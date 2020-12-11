@@ -20,4 +20,4 @@ Web 前端安全只包含了一部分内容，例如 XSS、CSRF、界面操作�
 
 ### SQL 注入漏洞
 
-开发人员在开发过程中，直接将 URL 中的参数、HTTP Body 中的 POST 参数或其他外来的用户输入（如 Cookie，UserAgent 等）与 SQL 语句进行拼接，造成待执行的 SQL 语句可控，从而使攻击者可以执行任意 SQL 语句。
+开发人员在开发过程中，直接将 URL 中的参数、HTTP Body 中的 POST 参数或其他外来的用户输入（如 Cookie，User-Agent 等）与 SQL 语句进行拼接，造成待执行的 SQL 语句可控，从而使攻击者可以执行任意 SQL 语句。
